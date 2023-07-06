@@ -1,7 +1,7 @@
 [
     {
         "DisplayName": "Server Name",
-        "Category": "Server Settings",
+        "Category": "Custom settings",
         "Description": "",
         "Keywords": "server,name",
         "FieldName": "-Name ",
@@ -18,7 +18,7 @@
     },
     {
         "DisplayName": "World Name",
-        "Category": "Server Settings",
+        "Category": "Custom settings",
         "Description": "World Name",
         "Keywords": "world,name",
         "FieldName": "-world",
@@ -35,7 +35,7 @@
     },
     {
         "DisplayName": "Port",
-        "Category": "Server Settings",
+        "Category": "Custom settings",
         "Description": "TCP port setting",
         "Keywords": "port",
         "FieldName": "-tcp",
@@ -52,7 +52,7 @@
     },
     {
         "DisplayName": "public/private",
-        "Category": "Server Settings",
+        "Category": "Custom settings",
         "Description": "Will display your game on the server list",
         "Keywords": "public/private",
         "FieldName": "-public",
