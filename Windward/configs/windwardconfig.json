@@ -13,7 +13,7 @@
         "Placeholder": "Windward Server",
         "Suffix": "",
         "Hidden": false,
-        "SkipIfEmpty": true,
+        "SkipIfEmpty": false,
         "EnumValues": {}
     },
     {
@@ -57,7 +57,7 @@
         "Keywords": "public/private",
         "FieldName": "-public",
         "InputType": "checkbox",
-        "IsFlagArgument": false,
+        "IsFlagArgument": true,
         "ParamFieldName": "-public",
         "IncludeInCommandLine": true,
         "DefaultValue": "",

@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "ConfigFile": "Configs/settings.conf",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
