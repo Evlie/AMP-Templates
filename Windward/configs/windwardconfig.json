@@ -1,1 +1,73 @@
-[]
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "server,name",
+        "FieldName": "-Name ",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "-Name ",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "Windward Server",
+        "Placeholder": "Windward Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "World Name",
+        "Category": "Server Settings",
+        "Description": "World Name",
+        "Keywords": "world,name",
+        "FieldName": "-world",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "-world",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "world",
+        "Placeholder": "world",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Port",
+        "Category": "Server Settings",
+        "Description": "TCP port setting",
+        "Keywords": "port",
+        "FieldName": "-tcp",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "-tcp",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "5125",
+        "Placeholder": "5125",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "public/private",
+        "Category": "Server Settings",
+        "Description": "Will display your game on the server list",
+        "Keywords": "public/private",
+        "FieldName": "-public",
+        "InputType": "checkbox",
+        "IsFlagArgument": false,
+        "ParamFieldName": "-public",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {
+            "true": "True",
+            "false": "False"
+        }
+    }
+]
