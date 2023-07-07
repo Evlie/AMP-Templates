@@ -1,0 +1,22 @@
+[
+    {
+        "ConfigFile": "config.mods.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "config.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "database.Account.config",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "database.Worlds.config",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]
