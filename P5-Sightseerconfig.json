@@ -7,7 +7,7 @@
         "FieldName": "Name",
         "InputType": "text",
         "IsFlagArgument": false,
-        "ParamFieldName": "Name",
+        "ParamFieldName": "name",
         "IncludeInCommandLine": true,
         "DefaultValue": "P5 Sightseer Server",
         "Placeholder": "P5 Sightseer Server",
